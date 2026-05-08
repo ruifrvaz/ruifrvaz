@@ -1,8 +1,8 @@
 ## Well, hello there! 
 
 ## What am I currently up to...
-- Exploring local inference systems
-- Building autonomous agents
+- local inference systems
+- autonomous agents
 
 <!--
 **ruifrvaz/ruifrvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
