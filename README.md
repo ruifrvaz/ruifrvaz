@@ -1,4 +1,12 @@
-## Hi there 👋
+## Well, hello there! 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruifrvaz&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ruifrvaz)
+
+## What I am up to...
+- Local inference systems
+- Automation & orchestration
 
 <!--
 **ruifrvaz/ruifrvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
