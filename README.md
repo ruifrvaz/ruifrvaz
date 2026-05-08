@@ -1,8 +1,8 @@
 ## Well, hello there! 
 
-## What I am up to...
-- Local inference systems
-- AI automation & orchestration
+## What am I currently up to...
+- Exploring local inference systems
+- Building AI automation & orchestration
 
 <!--
 **ruifrvaz/ruifrvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
